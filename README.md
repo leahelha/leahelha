@@ -1,8 +1,4 @@
 
-## Curious? 🥸
-### Have a look at my favorite projects 🤓
-- [**AST5220**](https://github.com/leahelha/AST5220): A collection of programmes written for the completion of a final assignment in the course AST5220 - Cosmology II at the University of Oslo. 
-- [**FYS-STK4155**](https://github.com/leahelha/FYS-STK4155): Projects completed in the machine learning and statistical analysis course FYS-STK4155 at UiO.
 
 
 
